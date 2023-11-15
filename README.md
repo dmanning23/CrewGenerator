@@ -5,6 +5,6 @@ This project shows how to return a list of objects that can be used as arguments
 
 Try it at:
 
-https://charactergenerator-rvvq6yy8l42uad77j4vzlq.streamlit.app/
+https://crewgenerator-4rgar97eqygbvpktzneuxj.streamlit.app/
 
 ![Screenshot](./Screenshot.png)
