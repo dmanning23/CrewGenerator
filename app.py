@@ -79,7 +79,7 @@ def main():
                             },
                             'personality': {
                                 'type': 'string',
-                                'description': "A short description of the character, with no location or relationship data. Generate this from the user's name, age, and gender."
+                                'description': "A description of the character, with no location or relationship data. Generate this from the user's name, age, and gender."
                             }
                         },
                         "required": ["name", "gender", "age", "personality"]
